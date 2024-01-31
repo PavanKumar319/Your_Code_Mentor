@@ -1,0 +1,108 @@
+
+.header{
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color:rgb(82, 160, 190);
+    border-radius: 10px;
+    font-size:25px;
+    
+    
+}
+
+body{
+    background-image: url(white\ bcg.jpg);
+    background-color:whitesmoke;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.footer{
+    width: auto;
+    text-align: center;
+    color:white;
+    background-color:rgb(82, 160, 190);
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+
+.river{
+    height: 300px;
+    width: 1300px;
+    margin-top: 20px;
+
+}
+.contactform{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 100px;
+
+}
+.contactform h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 12px 0;
+}
+.contactform form div{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+.contactform div input{
+ width: 26vw;
+ border-radius: 5px;
+ margin: 6px 0 0 0;
+ padding: 3px;
+}
+#emailHelp{
+    font-size: 15px;
+    color: rgb(156, 27, 12);
+    margin: 0 5px;
+}
+
+#form-check{
+    flex-direction: row;
+}
+
+#form-check input{
+    width: 24px;
+    margin: 3px 0;
+}
+.buttons{
+    margin-top: 30px;    
+}
+
+.btn{
+    margin:0px 3px ;
+    padding:9px 14px ;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+     font-weight: bold;
+     font-size: 21px;
+     cursor: pointer;
+}
+
+.btn:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+
+.btn-sm{
+    font-size:12px;
+    padding: 7px 13px;
+    margin: 10px 0;
+     
+}
+.iframe{
+    height: 300px;
+    width: 600px;
+}
+
+.intro{
+    text-align: center;
+}
+.heading{
+    color: dodgerblue;
+
+}
